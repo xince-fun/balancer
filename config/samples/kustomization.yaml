@@ -1,0 +1,4 @@
+## Append samples of your project ##
+resources:
+- exposer_v1_balancer.yaml
+#+kubebuilder:scaffold:manifestskustomizesamples
